@@ -1,4 +1,4 @@
-# 
+# Custom Semantic Code Search templates. Featuring code-generation and privacy-preserving — optimized for maximum performance and efficiency.
 
 
 
